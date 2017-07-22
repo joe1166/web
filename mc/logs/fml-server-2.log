@@ -1,0 +1,52 @@
+[14:18:54] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[14:18:54] [main/INFO] [FML/]: Forge Mod Loader version 14.21.1.2404 for Minecraft 1.12 loading
+[14:18:54] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_131, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_131
+[14:18:54] [main/DEBUG] [FML/]: Java classpath at launch is E:\娱乐\mc\开服\.1.12\forge-1.12-14.21.1.2404-universal.jar
+[14:18:54] [main/DEBUG] [FML/]: Java library path at launch is C:\Program Files\Java\jre1.8.0_131\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Lenovo\Bluetooth Software\;C:\Program Files\Lenovo\Bluetooth Software\syswow64;;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;E:\Program Files\WorldPainter;C:\WINDOWS\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Users\Joe\AppData\Local\Microsoft\WindowsApps;;.
+[14:18:54] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[14:18:54] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[14:18:54] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[14:18:54] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[14:18:54] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[14:18:54] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[14:18:54] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[14:18:54] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to E:\娱乐\mc\开服\.1.12\.
+[14:18:54] [main/DEBUG] [FML/]: Adding net.minecraftforge:MercuriusUpdater (E:\娱乐\mc\开服\.1.12\libraries\net\minecraftforge\MercuriusUpdater\1.12\MercuriusUpdater-1.12.jar) to the mod list
+[14:18:54] [main/DEBUG] [FML/]: Discovering coremods
+[14:18:54] [main/DEBUG] [FML/]: Examining for coremod candidacy MercuriusUpdater-1.12.jar
+[14:18:54] [main/DEBUG] [FML/]: Not found coremod data in MercuriusUpdater-1.12.jar
+[14:18:54] [main/DEBUG] [FML/]: Examining for coremod candidacy worldedit-forge-mc1.11.2-6.1.8-SNAPSHOT-dist-works-with-1.12.jar
+[14:18:54] [main/DEBUG] [FML/]: Not found coremod data in worldedit-forge-mc1.11.2-6.1.8-SNAPSHOT-dist-works-with-1.12.jar
+[14:18:54] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:18:54] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:18:54] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:18:54] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:18:54] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:54] [main/DEBUG] [FML/]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[14:18:54] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.BlamingTransformer
+[14:18:54] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[14:18:54] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[14:18:54] [main/TRACE] [FML/]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[14:18:54] [main/DEBUG] [FML/]: Injection complete
+[14:18:54] [main/DEBUG] [FML/]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[14:18:54] [main/DEBUG] [FML/]: Running coremod plugin FMLCorePlugin
+[14:18:55] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[14:18:55] [main/DEBUG] [FML/]: Read 1058 binary patches
+[14:18:56] [main/DEBUG] [FML/]: Loading deobfuscation resource /deobfuscation_data-1.12.lzma with 36066 records
+[14:18:56] [main/INFO] [FML/]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:18:56] [main/DEBUG] [FML/]: Coremod plugin class FMLCorePlugin run successfully
+[14:18:56] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:18:56] [main/DEBUG] [FML/]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[14:18:56] [main/DEBUG] [FML/]: Injection complete
+[14:18:56] [main/DEBUG] [FML/]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[14:18:56] [main/DEBUG] [FML/]: Running coremod plugin FMLForgePlugin
+[14:18:56] [main/DEBUG] [FML/]: Coremod plugin class FMLForgePlugin run successfully
+[14:18:56] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:18:56] [main/DEBUG] [FML/]: Loaded 206 rules from AccessTransformer config file forge_at.cfg
+[14:18:56] [main/DEBUG] [FML/]: Validating minecraft
+[14:18:57] [main/DEBUG] [FML/]: Minecraft validated, launching...
+[14:18:57] [main/INFO] [LaunchWrapper/]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:18:57] [main/INFO] [LaunchWrapper/]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:18:57] [main/INFO] [LaunchWrapper/]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[14:19:02] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[14:19:02] [main/DEBUG] [FML/]: Vanilla freeze snapshot created

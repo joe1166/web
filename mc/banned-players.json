@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "e904e038-0971-362e-a11e-33e94c314c79",
+    "name": "sidoubi",
+    "created": "2017-07-12 20:32:04 +0800",
+    "source": "jinqiu",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "e29b177c-3bb7-31f1-96f2-52b6e5e5b493",
+    "name": "yinyangshi",
+    "created": "2017-07-11 14:10:59 +0800",
+    "source": "jinqiu",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "69580ee3-6215-33d9-8c5e-597d1d687858",
+    "name": "sishen",
+    "created": "2017-07-12 20:26:02 +0800",
+    "source": "jinqiu",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
